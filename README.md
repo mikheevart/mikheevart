@@ -1,16 +1,43 @@
-## Hi there 👋
+# Привет! Я [Ваше Имя / Никнейм] 👋
+### Backend / Fullstack Python Developer (Django • Wagtail • UIkit 3)
 
-<!--
-**mikheevart/mikheevart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я специализируюсь на создании высокопроизводительных, безопасных и легко масштабируемых корпоративных сайтов, веб-порталов и CMS-решений. Мой ключевой подход — разработка чистого бэкенда на **Django** в связке с гибким управлением контентом через **Wagtail CMS**, упакованная в быструю, адаптивную фронтенд-верстку на фреймворке **UIkit 3**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой стек технологий
+
+- **Backend:** Python, Django, Django REST Framework (DRF), Wagtail CMS
+- **Frontend & UI:** UIkit 3 (SASS/LESS кастомизация), HTML5, CSS3, JavaScript (Vanilla, ES6)
+- **Базы данных & Инструменты:** PostgreSQL, SQLite, Git, Docker, Gunicorn/Nginx
+
+---
+
+### 🚀 Почему именно Django + Wagtail + UIkit 3?
+
+- **Для бизнеса:** Я создаю сайты с потрясающей, интуитивно понятной админ-панелью (благодаря Wagtail StreamField), где контент-менеджеры могут легко собирать страницы как в конструкторе, не ломая код.
+- **Для производительности:** Отказываюсь от тяжелых JavaScript-фреймворков и громоздких плагинов в пользу легковесного UIkit 3. Сайты показывают идеальный green-zone результат в Google PageSpeed Insights.
+- **Для безопасности:** Django обеспечивает монолитную защиту от большинства уязвимостей (SQL-инъекции, CSRF, XSS) прямо из коробки.
+
+---
+
+### 📊 Мои проекты / Что я умею делать:
+
+- 💻 **Корпоративные сайты и бизнес-порталы** с динамическим управлением блоками, тарифами и формами обратной связи.
+- 🛒 **Кастомные E-commerce решения** на базе Django с интеграцией платежных шлюзов и CRM.
+- 🔧 **Кастомизация UIkit 3** под уникальные дизайн-макеты (без эффекта "шаблонного" сайта).
+- 📲 **Интеграция сторонних сервисов:** отправка заявок в Telegram, интеграция с CRM (AmoCRM, Bitrix24), подключение масок ввода и интерактивных карт.
+
+---
+
+### 📫 Как со мной связаться:
+
+- 💬 **Telegram:** [@ваш_ник]
+- 📧 **Email:** [ваш_email@example.com]
+- 💼 **LinkedIn:** [ссылка на профиль, если есть]
+
+---
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</p>
