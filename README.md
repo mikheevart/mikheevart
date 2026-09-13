@@ -32,9 +32,8 @@
 
 ### 📫 Как со мной связаться:
 
-- 💬 **Telegram:** [@ваш_ник]
-- 📧 **Email:** [ваш_email@example.com]
-- 💼 **LinkedIn:** [ссылка на профиль, если есть]
+- 💬 **Telegram:** @mikheevarts
+- 📧 **Email:** mikheevartist@yandex.ru
 
 ---
 
